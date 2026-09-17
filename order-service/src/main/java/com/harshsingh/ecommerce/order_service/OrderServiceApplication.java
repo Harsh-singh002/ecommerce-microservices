@@ -1,4 +1,4 @@
-package com.codingshuttle.ecommerce.order_service;
+package com.harshsingh.ecommerce.order_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

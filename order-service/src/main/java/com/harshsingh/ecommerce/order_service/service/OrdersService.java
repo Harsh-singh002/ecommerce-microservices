@@ -1,14 +1,12 @@
-package com.codingshuttle.ecommerce.order_service.service;
+package com.harshsingh.ecommerce.order_service.service;
 
-import com.codingshuttle.ecommerce.order_service.clients.InventoryOpenFeignClient;
-import com.codingshuttle.ecommerce.order_service.dto.OrderRequestDto;
-import com.codingshuttle.ecommerce.order_service.entity.OrderItem;
-import com.codingshuttle.ecommerce.order_service.entity.OrderStatus;
-import com.codingshuttle.ecommerce.order_service.entity.Orders;
-import com.codingshuttle.ecommerce.order_service.repoitory.OrdersRepository;
+import com.harshsingh.ecommerce.order_service.clients.InventoryOpenFeignClient;
+import com.harshsingh.ecommerce.order_service.dto.OrderRequestDto;
+import com.harshsingh.ecommerce.order_service.entity.OrderItem;
+import com.harshsingh.ecommerce.order_service.entity.OrderStatus;
+import com.harshsingh.ecommerce.order_service.entity.Orders;
+import com.harshsingh.ecommerce.order_service.repoitory.OrdersRepository;
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
-import io.github.resilience4j.ratelimiter.annotation.RateLimiter;
-import io.github.resilience4j.retry.annotation.Retry;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;

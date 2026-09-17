@@ -1,4 +1,4 @@
-package com.codingshuttle.ecommerce.inventory_service.clients;
+package com.harshsingh.ecommerce.inventory_service.clients;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;

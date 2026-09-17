@@ -1,4 +1,4 @@
-package com.codingshuttle.ecommerce.order_service.config;
+package com.harshsingh.ecommerce.order_service.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

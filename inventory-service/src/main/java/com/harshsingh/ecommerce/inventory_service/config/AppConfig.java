@@ -1,4 +1,4 @@
-package com.codingshuttle.ecommerce.inventory_service.config;
+package com.harshsingh.ecommerce.inventory_service.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

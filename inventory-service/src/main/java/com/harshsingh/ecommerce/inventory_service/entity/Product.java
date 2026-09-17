@@ -1,4 +1,4 @@
-package com.codingshuttle.ecommerce.inventory_service.entity;
+package com.harshsingh.ecommerce.inventory_service.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

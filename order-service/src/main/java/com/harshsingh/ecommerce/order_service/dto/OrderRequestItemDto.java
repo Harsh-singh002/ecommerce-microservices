@@ -1,4 +1,4 @@
-package com.codingshuttle.ecommerce.order_service.dto;
+package com.harshsingh.ecommerce.order_service.dto;
 
 import lombok.Data;
 

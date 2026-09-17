@@ -1,4 +1,4 @@
-package com.codingshuttle.ecommerce.discovery_service;
+package com.harshsingh.ecommerce.discovery_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

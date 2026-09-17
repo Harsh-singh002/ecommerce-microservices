@@ -1,4 +1,4 @@
-package com.codingshuttle.ecommerce.api_gateway;
+package com.harshsingh.ecommerce.api_gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

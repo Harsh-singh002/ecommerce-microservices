@@ -1,8 +1,7 @@
-package com.codingshuttle.ecommerce.order_service.controller;
+package com.harshsingh.ecommerce.order_service.controller;
 
-import com.codingshuttle.ecommerce.order_service.clients.InventoryOpenFeignClient;
-import com.codingshuttle.ecommerce.order_service.dto.OrderRequestDto;
-import com.codingshuttle.ecommerce.order_service.service.OrdersService;
+import com.harshsingh.ecommerce.order_service.dto.OrderRequestDto;
+import com.harshsingh.ecommerce.order_service.service.OrdersService;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

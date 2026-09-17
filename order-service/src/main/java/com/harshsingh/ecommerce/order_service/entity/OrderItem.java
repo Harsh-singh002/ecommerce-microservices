@@ -1,4 +1,4 @@
-package com.codingshuttle.ecommerce.order_service.entity;
+package com.harshsingh.ecommerce.order_service.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

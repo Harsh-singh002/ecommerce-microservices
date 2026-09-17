@@ -1,10 +1,10 @@
-package com.codingshuttle.ecommerce.inventory_service.service;
+package com.harshsingh.ecommerce.inventory_service.service;
 
-import com.codingshuttle.ecommerce.inventory_service.dto.OrderRequestDto;
-import com.codingshuttle.ecommerce.inventory_service.dto.OrderRequestItemDto;
-import com.codingshuttle.ecommerce.inventory_service.dto.ProductDto;
-import com.codingshuttle.ecommerce.inventory_service.entity.Product;
-import com.codingshuttle.ecommerce.inventory_service.repository.ProductRepository;
+import com.harshsingh.ecommerce.inventory_service.dto.OrderRequestDto;
+import com.harshsingh.ecommerce.inventory_service.dto.OrderRequestItemDto;
+import com.harshsingh.ecommerce.inventory_service.dto.ProductDto;
+import com.harshsingh.ecommerce.inventory_service.entity.Product;
+import com.harshsingh.ecommerce.inventory_service.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;
